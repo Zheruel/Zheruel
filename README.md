@@ -1,4 +1,4 @@
-p align="right"> <img src="https://komarev.com/ghpvc/?username=zheruel&label=Profile%20views&color=0e75b6&style=flat" alt="zheruel" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=zheruel&label=Profile%20views&color=0e75b6&style=flat" alt="zheruel" /> </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tin</h1>
 <h3 align="center">A Full Stack Software Engineer</h3>
@@ -23,7 +23,6 @@ I'm a big believer in clean code and important engineering principles that can c
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zheruel&show_icons=true&locale=en&theme=dark" alt="zheruel" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zheruel&theme=dark" alt="zheruel" />
 </p>
 
