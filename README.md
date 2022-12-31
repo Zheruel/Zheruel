@@ -8,7 +8,7 @@
 
 Hi! I'm a Full Stack Software engineer currently working as a team lead on some big and important projects.
 
-I used to have a great interest in breaking things and finding exploits, but have mostly been focused on building things and teaching people best practices for the past few years.
+I used to have a great interest in breaking things and finding exploits, but have mostly been focused on building projects and teaching people best practices for the past few years.
 
 I'm a big believer in clean code and important engineering principles that can carry over across different technologies.
 
