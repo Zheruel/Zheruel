@@ -14,8 +14,6 @@ I'm a big believer in clean code and important engineering principles that can c
 
 - 🔭 If you want to learn more visit [My Website](https://tinzeljar.com/)
 
-- 🌱 I’m constantly learning and looking to expand my skillset.
-
 - 👨‍💻 Some of my projects are available at [https://github.com/zheruel](https://github.com/zheruel?tab=repositories)
 
 - 📫 How to reach me `tinzeljar at gmail dot com`
