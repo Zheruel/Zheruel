@@ -10,7 +10,7 @@ Hi! I'm a Full Stack Software engineer currently working as a team lead on some 
 
 I used to have a great interest in breaking things and finding exploits, but have mostly been focused on building projects and teaching people best practices for the past few years.
 
-I'm a big believer in clean code and important engineering principles that can carry over across different technologies.
+I'm a big believer in clean code and quality-focused engineering principles that can carry over across different technologies.
 
 - 🔭 If you want to learn more visit [My Website](https://tinzeljar.com/)
 
