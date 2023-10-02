@@ -1,5 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=zheruel&label=Profile%20views&color=0e75b6&style=flat" alt="zheruel" /> </p>
-
 Hello! I'm a seasoned full stack software engineer currently serving as a team lead on significant projects.
 
 My passion lies in crafting elegant solutions and upholding the highest standards of software engineering. Over the years, I have dedicated my expertise to building exceptional projects and imparting best practices to fellow developers.
