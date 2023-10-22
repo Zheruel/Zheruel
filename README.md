@@ -1,4 +1,4 @@
-Hello! I'm a seasoned full stack software engineer currently serving as a team lead on significant projects.
+Hello! I'm a seasoned full stack software engineer.
 
 My passion lies in crafting elegant solutions and upholding the highest standards of software engineering. Over the years, I have dedicated my expertise to building exceptional projects and imparting best practices to fellow developers.
 
